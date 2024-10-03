@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|solutionrelative:repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Domain.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\businnes\\interfaces\\icuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Domain.csproj|solutionrelative:businnes\\interfaces\\icuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Transferencias.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\prueba\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Transferencias.csproj|solutionrelative:prueba\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Domain.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\businnes\\implementation\\cuentasbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Domain.csproj|solutionrelative:businnes\\implementation\\cuentasbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|solutionrelative:repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\businnes\\interfaces\\imovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|solutionrelative:businnes\\interfaces\\imovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\businnes\\interfaces\\iusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|solutionrelative:businnes\\interfaces\\iusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|solutionrelative:repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBFA6C1-F58D-44C2-84ED-15280D77540D}|Data\\Data.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBFA6C1-F58D-44C2-84ED-15280D77540D}|Data\\Data.csproj|solutionrelative:data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|solutionrelative:prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|solutionrelative:prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\businnes\\implementation\\movimientosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|solutionrelative:businnes\\implementation\\movimientosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\businnes\\implementation\\usuariosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|solutionrelative:businnes\\implementation\\usuariosbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Transferencias.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\prueba\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Transferencias.csproj|solutionrelative:prueba\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Transferencias.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\prueba\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Transferencias.csproj|solutionrelative:prueba\\controllers\\movimientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\repository\\persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4557A22A-E938-4A44-A877-887E9C613D30}|Repository\\Persistencia.csproj|solutionrelative:repository\\persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Domain.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\businnes\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Domain.csproj|solutionrelative:businnes\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798395D5-6159-47C6-99CB-A692E5B8CAE4}|Entities\\Entities.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\entities\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798395D5-6159-47C6-99CB-A692E5B8CAE4}|Entities\\Entities.csproj|solutionrelative:entities\\movimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798395D5-6159-47C6-99CB-A692E5B8CAE4}|Entities\\Entities.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\entities\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798395D5-6159-47C6-99CB-A692E5B8CAE4}|Entities\\Entities.csproj|solutionrelative:entities\\cuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\prueba\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|solutionrelative:prueba\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798395D5-6159-47C6-99CB-A692E5B8CAE4}|Entities\\Entities.csproj|c:\\users\\dell\\desktop\\politecnico\\prueba\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798395D5-6159-47C6-99CB-A692E5B8CAE4}|Entities\\Entities.csproj|solutionrelative:entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:42:38.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:42:40.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICuentas.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Interfaces\\ICuentas.cs",
+              "RelativeDocumentMoniker": "Businnes\\Interfaces\\ICuentas.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Interfaces\\ICuentas.cs",
+              "RelativeToolTip": "Businnes\\Interfaces\\ICuentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:51:15.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Interfaces\\IUsuarios.cs",
+              "RelativeDocumentMoniker": "Businnes\\Interfaces\\IUsuarios.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Interfaces\\IUsuarios.cs",
+              "RelativeToolTip": "Businnes\\Interfaces\\IUsuarios.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:38:17.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMovimientos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Interfaces\\IMovimientos.cs",
+              "RelativeDocumentMoniker": "Businnes\\Interfaces\\IMovimientos.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Interfaces\\IMovimientos.cs",
+              "RelativeToolTip": "Businnes\\Interfaces\\IMovimientos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:23:12.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CuentasBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Implementation\\CuentasBusiness.cs",
+              "RelativeDocumentMoniker": "Businnes\\Implementation\\CuentasBusiness.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Implementation\\CuentasBusiness.cs",
+              "RelativeToolTip": "Businnes\\Implementation\\CuentasBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:51:49.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentasController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Controllers\\CuentasController.cs",
+              "RelativeDocumentMoniker": "Prueba\\Controllers\\CuentasController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Controllers\\CuentasController.cs",
+              "RelativeToolTip": "Prueba\\Controllers\\CuentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:50:36.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:42:34.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:42:41.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Data\\ContextDb.cs",
+              "RelativeDocumentMoniker": "Data\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Data\\ContextDb.cs",
+              "RelativeToolTip": "Data\\ContextDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:21:14.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Program.cs",
+              "RelativeToolTip": "Prueba\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:23:00.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\appsettings.json",
+              "RelativeDocumentMoniker": "Prueba\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\appsettings.json",
+              "RelativeToolTip": "Prueba\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T17:27:37.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MovimientosBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Implementation\\MovimientosBusiness.cs",
+              "RelativeDocumentMoniker": "Businnes\\Implementation\\MovimientosBusiness.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Implementation\\MovimientosBusiness.cs",
+              "RelativeToolTip": "Businnes\\Implementation\\MovimientosBusiness.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:24:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuariosBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Implementation\\UsuariosBusiness.cs",
+              "RelativeDocumentMoniker": "Businnes\\Implementation\\UsuariosBusiness.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Implementation\\UsuariosBusiness.cs",
+              "RelativeToolTip": "Businnes\\Implementation\\UsuariosBusiness.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:40:08.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Prueba\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Prueba\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:37:17.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovimientoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Controllers\\MovimientoController.cs",
+              "RelativeDocumentMoniker": "Prueba\\Controllers\\MovimientoController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Controllers\\MovimientoController.cs",
+              "RelativeToolTip": "Prueba\\Controllers\\MovimientoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:25:07.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Persistencia",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\Persistencia.csproj",
+              "RelativeDocumentMoniker": "Repository\\Persistencia.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Repository\\Persistencia.csproj",
+              "RelativeToolTip": "Repository\\Persistencia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T20:42:33.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Domain.csproj",
+              "RelativeDocumentMoniker": "Businnes\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Businnes\\Domain.csproj",
+              "RelativeToolTip": "Businnes\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T20:45:54.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Movimientos.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Entities\\Movimientos.cs",
+              "RelativeDocumentMoniker": "Entities\\Movimientos.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Entities\\Movimientos.cs",
+              "RelativeToolTip": "Entities\\Movimientos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:24:43.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cuentas.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Entities\\Cuentas.cs",
+              "RelativeDocumentMoniker": "Entities\\Cuentas.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Entities\\Cuentas.cs",
+              "RelativeToolTip": "Entities\\Cuentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:23:09.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IoC.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\IoC.cs",
+              "RelativeDocumentMoniker": "Prueba\\IoC.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\IoC.cs",
+              "RelativeToolTip": "Prueba\\IoC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:22:23.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Entities\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Entities\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Entities\\Usuarios.cs",
+              "RelativeToolTip": "Entities\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:26:44.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

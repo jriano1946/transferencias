@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Practicas
+/Businnes/bin/Debug/net6.0
+/Businnes/obj
+/Data/bin/Debug/net6.0
+/Data/obj
+/Entities/bin/Debug/net6.0
+/Entities/obj
+/Practicas/bin/Debug/net6.0
+/Practicas/obj
+/Repository/bin/Debug/net6.0
+/Repository/obj
+/Practicas/.config
+/Practicas/bin/Release
+/Practicas/Properties
+/Practicas/Practicas.csproj.user
+/Repository/bin/Release/net6.0/Data.dll
+/Repository/bin/Release/net6.0
+/Entities/bin/Release/net6.0
+/Data/bin/Release/net6.0
+/Businnes/bin/Release/net6.0
+/Practicas/appsettings.json
