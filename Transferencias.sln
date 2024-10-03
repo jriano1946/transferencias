@@ -5,13 +5,13 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transferencias", "Prueba\Transferencias.csproj", "{9785F487-9D0B-4C60-A293-381982FD5545}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Businnes\Domain.csproj", "{5D5DB61B-ACE7-491A-B511-261D7663F35D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{5D5DB61B-ACE7-491A-B511-261D7663F35D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Data\Infrastructure.csproj", "{8BBFA6C1-F58D-44C2-84ED-15280D77540D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{8BBFA6C1-F58D-44C2-84ED-15280D77540D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entities\Entidades.csproj", "{798395D5-6159-47C6-99CB-A692E5B8CAE4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistencia", "Repository\Persistencia.csproj", "{4557A22A-E938-4A44-A877-887E9C613D30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Persistencia", "Persistencia\Persistencia.csproj", "{4557A22A-E938-4A44-A877-887E9C613D30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

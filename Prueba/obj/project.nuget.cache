@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1kMPKUbn/E4=",
+  "dgSpecHash": "OQ8ek4ti3YU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Politecnico\\prueba\\Prueba\\Transferencias.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Politecnico\\New folder\\transferencias\\Prueba\\Transferencias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

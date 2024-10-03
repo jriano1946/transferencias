@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Transferencias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4813ac6eea49271286669d3ced2a3ca0f2f4bbd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Transferencias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Transferencias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

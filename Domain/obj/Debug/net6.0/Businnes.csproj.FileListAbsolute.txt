@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Businnes.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Businnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Businnes.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Businnes.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Businnes.csproj.CoreCompileInputs.cache

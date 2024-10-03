@@ -1,0 +1,39 @@
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Domain.dll
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Domain.pdb
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Entidades.dll
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Persistencia.dll
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Domain.csproj.Up2Date
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Domain.dll
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\Domain.pdb
+C:\Users\Dell\Desktop\Politecnico\prueba\Businnes\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Entidades.dll
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Persistencia.dll
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\Domain.csproj.Up2Date
+C:\Users\Dell\Desktop\Politecnico\New folder\transferencias\Domain\obj\Debug\net6.0\ref\Domain.dll
